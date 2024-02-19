@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "869gthu546XNm5GzifcLBog5IgbfxwwzB7u5qka88yDw1lTph+AdfGA5Oco9EX0L/HphI4xa3i6FOF/ip73GdA==",
+  "success": true,
+  "projectFilePath": "/Users/talatbayram/Projects/asp-dot-net-core-6-azure-app-services-deploying/04/DeploymentCICDWithGithub/DeploymentCICDWithGithub/DeploymentCICDWithGithub.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
